@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.div{
+    min-height: 100vh;
+    width: 100vw;
+    background-color:rgb(251, 211, 108);
+    
+}
+nav{
+    background-color: green;
+}
+.image{
+    padding-top: 5%;
+    padding-left: 40%;
+    
+}
+h1{
+   
+   font-weight: 10;
+   font-family:'Times New Roman', Times, serif;
+}
+h6{
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.button{
+    
+        margin-left: 50%;
+        margin-top: 10%;
+        size: 100px;
+        
+      
+}
+
+
+
+
+
